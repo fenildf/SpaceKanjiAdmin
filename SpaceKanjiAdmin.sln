@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceKanjiAdmin", "SpaceKanjiAdmin\SpaceKanjiAdmin.csproj", "{C604076D-CE9D-4848-B8C4-368A9E64F7C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{4E3E6736-F9B5-4426-93A2-BCAF9176D238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{4526F4E0-C6D4-4F1E-A546-492B08216F31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C604076D-CE9D-4848-B8C4-368A9E64F7C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C604076D-CE9D-4848-B8C4-368A9E64F7C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C604076D-CE9D-4848-B8C4-368A9E64F7C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E3E6736-F9B5-4426-93A2-BCAF9176D238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E3E6736-F9B5-4426-93A2-BCAF9176D238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E3E6736-F9B5-4426-93A2-BCAF9176D238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E3E6736-F9B5-4426-93A2-BCAF9176D238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4526F4E0-C6D4-4F1E-A546-492B08216F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4526F4E0-C6D4-4F1E-A546-492B08216F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4526F4E0-C6D4-4F1E-A546-492B08216F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4526F4E0-C6D4-4F1E-A546-492B08216F31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
